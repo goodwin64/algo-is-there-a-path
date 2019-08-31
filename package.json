@@ -2,6 +2,7 @@
   "name": "algo-tes",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://goodwin64.github.io/algo-is-there-a-path/",
   "dependencies": {
     "@types/jest": "24.0.18",
     "@types/node": "12.7.2",
