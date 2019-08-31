@@ -3,7 +3,15 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep_history: true
-  cache: yarn
-  language: node_js
   on:
     branch: master
+
+language: node_js
+node_js:
+  - "stable"
+cache:
+  directories:
+    - node_modules
+script:
+  # - npm test
+  - npm run build
