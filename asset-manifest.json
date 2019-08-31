@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/algo-is-there-a-path/static/css/main.7718ed72.chunk.css",
+    "main.js": "/algo-is-there-a-path/static/js/main.ec0809e6.chunk.js",
+    "main.js.map": "/algo-is-there-a-path/static/js/main.ec0809e6.chunk.js.map",
+    "runtime~main.js": "/algo-is-there-a-path/static/js/runtime~main.0434115d.js",
+    "runtime~main.js.map": "/algo-is-there-a-path/static/js/runtime~main.0434115d.js.map",
+    "static/js/2.a235fd25.chunk.js": "/algo-is-there-a-path/static/js/2.a235fd25.chunk.js",
+    "static/js/2.a235fd25.chunk.js.map": "/algo-is-there-a-path/static/js/2.a235fd25.chunk.js.map",
+    "index.html": "/algo-is-there-a-path/index.html",
+    "precache-manifest.30944045e163221cf76453e0488869f2.js": "/algo-is-there-a-path/precache-manifest.30944045e163221cf76453e0488869f2.js",
+    "service-worker.js": "/algo-is-there-a-path/service-worker.js",
+    "static/css/main.7718ed72.chunk.css.map": "/algo-is-there-a-path/static/css/main.7718ed72.chunk.css.map"
+  }
+}
