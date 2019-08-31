@@ -64,10 +64,7 @@ describe('utils', () => {
           config,
         ),
       ).toEqual(
-        new Set([
-          cells[1],
-          cells[2],
-        ]),
+        new Set([1, 2]),
       );
 
       expect(
@@ -77,11 +74,7 @@ describe('utils', () => {
           config,
         ),
       ).toEqual(
-        new Set([
-          cells[4],
-          cells[5],
-          cells[7],
-        ]),
+        new Set([4, 5, 7]),
       );
 
       expect(
@@ -91,11 +84,7 @@ describe('utils', () => {
           config,
         ),
       ).toEqual(
-        new Set([
-          cells[4],
-          cells[5],
-          cells[8],
-        ]),
+        new Set([4, 5, 8]),
       );
     });
   });
